@@ -1,3 +1,3 @@
 # linux4ever
-#run the folowwing: 
+#run the following: 
 sudo apt-get remove windows &>/dev/null
